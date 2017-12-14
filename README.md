@@ -12,5 +12,5 @@ a clear  and simple but  strong  calendar
      一款日历app，考虑到目前本身的技术有限，所以打算前端vue  后端用 nodejs开发， 目前兼容pc和移动端
      功能成熟以后，再考虑用联合开发的模式生成 安卓app
      
-###开始
+### 开始
     总得有个开端，虽然不知道怎么开始，但是今天就是开始。
