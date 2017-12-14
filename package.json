@@ -1,0 +1,24 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "a clear simple but strong calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kisstheair/clearCalendar.git"
+  },
+  "keywords": [
+    "javascript",
+    "vue",
+    "canlendar"
+  ],
+  "author": "seven.li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kisstheair/clearCalendar/issues"
+  },
+  "homepage": "https://github.com/kisstheair/clearCalendar#readme"
+}
